@@ -21,5 +21,5 @@ A simple Tic-Tac-Toe game that can be played in the terminal.
 - **Simple Controls:** Easy-to-use controls for a smooth gaming experience.
 
 ## Tech Stack
-- **Java:** The core programming language used for developing the games.
+- **Python:** The core programming language used for developing the games.
 - **Git:** Version control to manage and collaborate on the project.
